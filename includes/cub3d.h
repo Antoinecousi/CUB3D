@@ -6,7 +6,7 @@
 /*   By: acousini <acousini@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/03/25 13:04:12 by acousini          #+#    #+#             */
-/*   Updated: 2022/03/28 18:07:43 by acousini         ###   ########.fr       */
+/*   Updated: 2022/03/28 18:30:05 by acousini         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -73,6 +73,5 @@ typedef struct s_base
 // FUNCTIONS
 int	initialise_base(char *path_map);
 int	destroybase(t_base *base, char *error)
-
 
 #endif
